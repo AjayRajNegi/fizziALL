@@ -18,7 +18,7 @@ const FloatingCan = forwardRef<Group, FloatingCanProps>(
     {
       flavor = "blackCherry",
       floatSpeed = 1.5,
-      rotationIntensity = 5,
+      rotationIntensity = 3,
       floatIntensity = 1,
       floatingRange = [-0.1, 0.1],
       children,
