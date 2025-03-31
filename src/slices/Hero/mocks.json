@@ -1,0 +1,101 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Deeply"
+						}
+					}
+				]
+			},
+			"subheading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Eu elit id sint nisi do ad aute sit officia proident pariatur proident laborum ullamco aliqua. Ex dolor minim anim reprehenderit id enim est tempor ex excepteur duis. Elit consectetur duis ullamco ea consequat voluptate exercitation ea amet aute reprehenderit cillum."
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Tempor duis ut adipisicing. Sit cupidatat nulla reprehenderit pariatur anim adipisicing fugiat anim eu veniam reprehenderit est ullamco labore."
+						}
+					}
+				]
+			},
+			"button_text": {
+				"__TYPE__": "FieldContent",
+				"value": "noon",
+				"type": "Text"
+			},
+			"button_link": {
+				"key": "6fb6aea2-bee6-45c5-ae7c-8b7f48a65157",
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "https://slicemachine.dev",
+					"text": "disease"
+				}
+			},
+			"cans_image": {
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6",
+					"width": 3212,
+					"height": 3880
+				},
+				"url": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6",
+				"width": 3212,
+				"height": 3880,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					},
+					"background": "transparent"
+				},
+				"alt": "chest",
+				"credits": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			},
+			"second_heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Amet sunt deserunt reprehenderit. Excepteur enim aliquip ut incididunt ipsum minim consectetur ex eiusmod in eiusmod."
+						}
+					}
+				]
+			},
+			"second_body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Do eiusmod ullamco incididunt adipisicing nulla ex aliqua Lorem qui id enim reprehenderit veniam. Fugiat occaecat id id voluptate."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
