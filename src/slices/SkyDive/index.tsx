@@ -1,12 +1,12 @@
 "use client";
 
-import { Content } from "@prismicio/client";
-import { SliceComponentProps } from "@prismicio/react";
-
-import { Bounded } from "../../app/components/Bounded";
+import { JSX } from "react";
 import Scene from "./Scene";
 import { View } from "@react-three/drei";
-import { JSX } from "react";
+import { Content } from "@prismicio/client";
+import { SliceComponentProps } from "@prismicio/react";
+import { Bounded } from "../../app/components/Bounded";
+
 /**
  * Props for `SkyDive`.
  */

@@ -1,0 +1,27 @@
+{
+  "id": "alternating_text",
+  "type": "SharedSlice",
+  "name": "AlternatingText",
+  "description": "AlternatingText",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "text_group": {
+          "type": "Group",
+          "config": {
+            "label": "Text Group",
+            "repeat": true,
+            "fields": {}
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

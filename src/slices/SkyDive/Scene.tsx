@@ -1,15 +1,14 @@
 "use client";
 
-import { Content } from "@prismicio/client";
-import { Cloud, Clouds, Environment, Text } from "@react-three/drei";
+import gsap from "gsap";
 import { useRef } from "react";
 import * as THREE from "three";
-import gsap from "gsap";
 import { useGSAP } from "@gsap/react";
+import { Content } from "@prismicio/client";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-
-import FloatingCan from "../../app/components/FloatingCan";
 import { useMediaQuery } from "@/hooks/useMediaQuery";
+import FloatingCan from "../../app/components/FloatingCan";
+import { Cloud, Clouds, Environment, Text } from "@react-three/drei";
 
 gsap.registerPlugin(useGSAP, ScrollTrigger);
 
